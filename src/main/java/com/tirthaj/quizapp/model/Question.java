@@ -1,4 +1,4 @@
-package com.tirthaj.quizapp;
+package com.tirthaj.quizapp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
